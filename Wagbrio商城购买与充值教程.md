@@ -1,4 +1,4 @@
-# ChatGPT Plus / Pro、Muse 账号与 AI 服务指南
+# 2026年11月 ChatGPT Plus / Pro 充值教程｜GPT Plus ¥135/月｜AI 代充、Muse 账号、Gemini、Grok
 
 > 先了解服务，再选择适合自己的使用方式<br>
 > 商城入口：[shop.wagbrio.com](https://shop.wagbrio.com/)<br>
@@ -6,9 +6,11 @@
 
 **[进入 Wagbrio 商城 →](https://shop.wagbrio.com/)**
 
-Wagbrio 提供学习、创作、开发和效率相关的 AI 服务。本指南以商城当前可见的服务分类为基础，重点介绍 **ChatGPT Plus**、**ChatGPT Pro** 和 **Muse 账号**的注册、选择与安全使用方式，并说明其他工具如何从官方入口开始使用、在商城下单时需要注意什么。
+Wagbrio 提供学习、创作、开发和效率相关的 AI 服务。本教程覆盖 **ChatGPT Plus 充值**、**ChatGPT Pro**、**AI 代充**、**Muse 账号注册**、Gemini、Grok 等常见需求，说明服务选择、官方入门、安全边界、下单交付与订单查询。
 
 服务和库存会动态变化；商品是否可买、具体规格、价格、交付方式与售后范围，始终以商城商品详情页为准。
+
+> 2026 年 11 月 8 日商城当前展示的 ChatGPT 价格：Plus ¥135、Pro 5X ¥688、Pro 10X ¥1,150。价格与可售状态会更新，请以商品页实时展示为准。
 
 ## 一、我们有哪些服务？
 
