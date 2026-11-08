@@ -180,14 +180,3 @@ Adobe Express 适合轻量设计、图片、视频和内容排版。可从 [Adob
 
 ---
 
-## 信息来源与更新原则
-
-本指南根据商城当前可见服务分类及公开官方页面整理。服务可用性、功能、地区资格和订阅规则均可能变化，请以服务商官方页面和商城商品详情页的最新展示为准。
-
-- [Meta Muse](https://ai.meta.com/muse)
-- [OpenAI：ChatGPT 支持国家与地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)
-- [Google Gemini 帮助中心](https://support.google.com/gemini/answer/14517446)
-- [Grok 官方网站](https://x.ai/grok)
-- [Duolingo](https://www.duolingo.com/)
-- [Notion](https://www.notion.com/)
-- [Adobe Express](https://www.adobe.com/express/)
