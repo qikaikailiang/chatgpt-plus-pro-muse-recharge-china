@@ -1,6 +1,8 @@
-# Wagbrio AI 服务与入门指南
+# ChatGPT Plus / Pro、Muse 账号与 AI 服务指南
 
-面向 AI 工具用户的中文入门文档：介绍商城当前服务分类、官方注册入口、合规使用边界、下单与交付流程，以及订单查询和常见问题。
+面向 AI 工具用户的中文入门文档：涵盖 **ChatGPT Plus**、**ChatGPT Pro**、**Muse 账号注册**、Gemini、Grok 等服务的选择、官方入门、安全边界、订单交付和常见问题。
+
+本文不提供绕过地区、支付或账号风控的操作；所有注册与订阅应遵守服务商的官方规则。
 
 ## 阅读教程
 
@@ -9,7 +11,7 @@
 ## 覆盖服务
 
 - Muse
-- ChatGPT
+- ChatGPT Plus / ChatGPT Pro
 - Gemini
 - Grok
 - 多邻国 Super
