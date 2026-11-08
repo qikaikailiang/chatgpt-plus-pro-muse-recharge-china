@@ -1,4 +1,4 @@
-# 2026年11月 ChatGPT Plus / Pro 充值教程｜GPT Plus ¥135/月｜AI 代充、Muse 账号、Gemini、Grok
+# 2026年11月 ***Muse*** · ChatGPT · Grok ***成品号***｜ChatGPT Plus / Pro 充值教程｜GPT Plus ¥135/月｜AI 代充、Gemini
 
 > 先了解服务，再选择适合自己的使用方式<br>
 > 商城入口：[shop.wagbrio.com](https://shop.wagbrio.com/)<br>
