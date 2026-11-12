@@ -4,7 +4,7 @@
 > 商城入口：[shop.wagbrio.com](https://shop.wagbrio.com/)<br>
 > 文档更新：2026 年 11 月 12 日
 
-**[进入 Wagbrio 商城 →](https://shop.wagbrio.com/)**
+**[进入 Wagbrio 商城，查看在售商品与价格 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=guide&utm_campaign=ai_membership)**
 
 Wagbrio 提供学习、创作、开发和效率相关的 AI 服务。本教程覆盖 **ChatGPT Plus 充值**、**ChatGPT Pro**、**AI 代充**、**Muse 账号注册**、Gemini、Grok 等常见需求，说明服务选择、官方入门、安全边界、下单交付与订单查询。
 
@@ -201,3 +201,5 @@ Adobe Express 适合轻量设计、图片、视频和内容排版。可从 [Adob
 登录商城，在个人中心提交工单。先保存订单号，再提供商品名称、规格、问题发生时间和打码后的错误信息。不要发送密码、验证码、完整卡密、兑换链接或支付凭据。
 
 ---
+
+**[已了解购买流程？去 Wagbrio 商城选购 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=guide&utm_campaign=ai_membership#catalog)**

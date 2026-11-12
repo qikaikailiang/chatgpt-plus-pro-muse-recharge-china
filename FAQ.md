@@ -1,6 +1,8 @@
 # AI 会员购买常见问题：ChatGPT、Muse、Gemini、Grok
 
-[返回首页](README.md) · [完整教程](Wagbrio商城购买与充值教程.md) · [查看商城](https://shop.wagbrio.com/)
+**[去 Wagbrio 商城查看商品与价格 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=faq&utm_campaign=ai_membership)**
+
+[返回首页](README.md) · [完整教程](Wagbrio商城购买与充值教程.md)
 
 文档更新：2026 年 11 月 12 日。
 
@@ -61,3 +63,7 @@ Issue 适合反馈教程链接失效、错别字或说明不清。订单、账�
 ### 能保证永久使用或任何情况下都能退款吗？
 
 请查看所购商品写明的有效期与售后条件。本指南不额外承诺永久可用、固定到账时间或无条件退款。
+
+---
+
+了解清楚后，**[前往商城挑选商品 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=faq&utm_campaign=ai_membership#catalog)**；具体规格、库存与售后范围以商品详情为准。

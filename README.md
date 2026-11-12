@@ -1,8 +1,12 @@
-# ChatGPT Plus / Pro 充值指南｜Muse、Gemini、Grok｜Wagbrio
+# ChatGPT Plus / Pro 充值与 AI 会员购买｜Wagbrio 商城
 
-想了解 ChatGPT Plus / Pro 怎么选、Muse 怎么注册，或付款后去哪里查订单？这里整理了入门步骤、购买说明和常见问题。
+需要 ChatGPT Plus / Pro、Muse、Gemini 或 Grok？先到 **Wagbrio 商城** 查看在售商品、价格和交付方式，再按自己的账号与需求选择。
 
-**[浏览 Wagbrio 商城](https://shop.wagbrio.com/)** · **[查看完整教程](Wagbrio商城购买与充值教程.md)** · **[查询订单](https://shop.wagbrio.com/user/index/query)**
+## [进入 Wagbrio 商城，查看商品与价格 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership)
+
+**商城地址：[shop.wagbrio.com](https://shop.wagbrio.com/)**
+
+买前想了解流程，可以看[购买教程](Wagbrio商城购买与充值教程.md)和[常见问题](FAQ.md)；已经下单可直接[查询订单](https://shop.wagbrio.com/user/index/query)。
 
 文档更新：2026 年 11 月 12 日。价格、库存、规格与交付时间以商城商品详情为准。
 
@@ -10,9 +14,9 @@
 
 | 你想了解什么 | 直接查看 |
 | --- | --- |
-| ChatGPT Plus / Pro 充值、注册与订阅选择 | [完整教程](Wagbrio商城购买与充值教程.md)中的 ChatGPT 部分 |
-| Muse 注册、候补、验证与成品号说明 | [完整教程](Wagbrio商城购买与充值教程.md)中的 Muse 部分 |
-| Gemini、Grok 和其他服务怎么入门 | [完整教程](Wagbrio商城购买与充值教程.md)中的各服务说明 |
+| ChatGPT Plus / Pro 商品、规格与价格 | [去商城搜索 ChatGPT →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership#catalog) |
+| Muse 账号或相关商品 | [去商城查看 Muse 分类 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership#catalog) |
+| Gemini、Grok 和其他服务 | [去商城按分类挑选 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership#catalog) |
 | 成品号、卡密、自有账号服务有什么区别 | [购买常见问题](FAQ.md) |
 | 付款成功但没有跳转、已付款但未交付 | [订单与交付问题](FAQ.md#订单与交付) |
 | 想查看当前在售商品和价格 | [进入商城](https://shop.wagbrio.com/) |
@@ -23,7 +27,9 @@
 
 购买商城商品时，重点看清三件事：**交付到哪个账号、包含什么权益、有效期多久**。商品写的是成品号、卡密或自有账号服务，流程就可能不同，不能只比较标题里的价格。
 
-[查看 ChatGPT 注册与购买说明 →](Wagbrio商城购买与充值教程.md)
+**[去商城查看 ChatGPT 商品与当前价格 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership#catalog)**
+
+需要先了解注册流程？[查看详细教程](Wagbrio商城购买与充值教程.md)。
 
 ## Muse、Gemini、Grok 从哪里开始？
 
@@ -34,7 +40,15 @@
 | Grok | [Grok](https://grok.com/) | 登录账号、订阅类型和权益 |
 | 多邻国 Super、Notion、Adobe Express | [完整教程](Wagbrio商城购买与充值教程.md) | 个人版或工作区、时长、激活方式 |
 
-商城是否有对应商品、是否有库存，请到[商品目录](https://shop.wagbrio.com/)查看。
+以上是各平台的官方入门入口。购买相关商品，请到 **[Wagbrio 商城商品目录](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership#catalog)**，按分类或商品名称查找，核对当前库存。
+
+## 怎么购买？
+
+1. **[进入 Wagbrio 商城](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership)**，搜索商品名称或选择分类。
+2. 打开商品详情，确认账号类型、规格、时长、价格及交付要求。
+3. 按页面提示下单，保存订单号；交付内容与进度在订单页查看。
+
+规格不确定，可以先到商城咨询，再决定购买。
 
 ## 下单后怎么查？
 
@@ -63,4 +77,8 @@
 
 本仓库由 Wagbrio 商城维护，包含商城服务介绍与购买入口。官方产品说明请以各品牌官网为准。
 
-如果这份指南帮到了你，可以 Star 收藏，或分享给正好需要的人。
+## 准备好了？去商城选一个适合你的服务
+
+**[打开 shop.wagbrio.com，查看当前在售商品 →](https://shop.wagbrio.com/?utm_source=github&utm_medium=readme&utm_campaign=ai_membership)**
+
+也可以把这份指南分享给正在找 AI 会员的朋友。
